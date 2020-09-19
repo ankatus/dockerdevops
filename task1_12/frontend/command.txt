@@ -1,0 +1,2 @@
+docker build . -t task1_12_frontend
+docker run --rm -p 5000:5000 task1_12_frontend

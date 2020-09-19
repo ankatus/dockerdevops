@@ -1,0 +1,4 @@
+﻿PS C:\Users\Antti\source\repos\dockerdevops> docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+PS C:\Users\Antti\source\repos\dockerdevops> docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE

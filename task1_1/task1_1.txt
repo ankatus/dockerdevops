@@ -1,0 +1,6 @@
+﻿PS C:\Users\Antti\source\repos\dockerdevops> docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                     PORTS               NAMES
+7d1ba9df2004        nginx               "/docker-entrypoint.…"   18 seconds ago      Exited (0) 4 seconds ago                       nervous_perlman
+555bac2cb599        nginx               "/docker-entrypoint.…"   19 seconds ago      Exited (0) 2 seconds ago                       unruffled_golick
+084ac107ceeb        nginx               "/docker-entrypoint.…"   24 seconds ago      Up 23 seconds              80/tcp              awesome_dhawan
+

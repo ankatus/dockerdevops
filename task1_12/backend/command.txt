@@ -1,0 +1,2 @@
+docker build . -t task1_12_backend
+docker run --rm -p 8000:8000 task1_12_backend

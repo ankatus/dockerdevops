@@ -1,0 +1,1 @@
+docker run --rm -v ${pwd}/logs.txt:/workdir/logs.txt -p 8000:8000 task1_11
